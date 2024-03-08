@@ -6,4 +6,5 @@ print(type(suma(a,b)))
 
 def resta(a,b):
     return a - b
+
 print(resta(a,b))
